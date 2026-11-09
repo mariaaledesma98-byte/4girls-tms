@@ -1,0 +1,182 @@
+[
+ {
+  "sku": "BEB-AGU-NAT-15",
+  "descripcion": "Botella Agua 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ },
+ {
+  "sku": "BEB-AGU-MAN-15",
+  "descripcion": "Botella Agua Saborizada Manzana 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ },
+ {
+  "sku": "BEB-AGU-NAR-15",
+  "descripcion": "Botella Agua Saborizada Naranja 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ },
+ {
+  "sku": "BEB-AGU-POM-15",
+  "descripcion": "Botella Agua Saborizada Pomelo 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ },
+ {
+  "sku": "BEB-AGU-ANA-15",
+  "descripcion": "Botella Agua Saborizada Ananá 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ },
+ {
+  "sku": "BEB-AGU-PER-15",
+  "descripcion": "Botella Agua Saborizada Pera 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ },
+ {
+  "sku": "BEB-AGU-NAT-22",
+  "descripcion": "Botella Agua 2,25L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 45,
+  "peso_pallet_kg": 651,
+  "alto_pallet_cm": 123
+ },
+ {
+  "sku": "BEB-GAS-COL-22",
+  "descripcion": "Botella Gaseosa Cola 2,25L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 45,
+  "peso_pallet_kg": 651,
+  "alto_pallet_cm": 123
+ },
+ {
+  "sku": "BEB-GAS-CLI-22",
+  "descripcion": "Botella Gaseosa Cola Light 2,25L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 45,
+  "peso_pallet_kg": 651,
+  "alto_pallet_cm": 123
+ },
+ {
+  "sku": "BEB-GAS-NAR-22",
+  "descripcion": "Botella Gaseosa Naranja 2,25L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 45,
+  "peso_pallet_kg": 651,
+  "alto_pallet_cm": 123
+ },
+ {
+  "sku": "BEB-GAS-LIM-22",
+  "descripcion": "Botella Gaseosa Lima 2,25L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 45,
+  "peso_pallet_kg": 651,
+  "alto_pallet_cm": 123
+ },
+ {
+  "sku": "BEB-GAS-POM-22",
+  "descripcion": "Botella Gaseosa Pomelo 2,25L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 45,
+  "peso_pallet_kg": 651,
+  "alto_pallet_cm": 123
+ },
+ {
+  "sku": "BEB-GAS-COL-L3",
+  "descripcion": "Lata Gaseosa Cola 354ml",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 24,
+  "bultos_por_pallet": 100,
+  "peso_pallet_kg": 910,
+  "alto_pallet_cm": 138
+ },
+ {
+  "sku": "BEB-GAS-CLI-L3",
+  "descripcion": "Lata Gaseosa Cola Light 354ml",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 24,
+  "bultos_por_pallet": 100,
+  "peso_pallet_kg": 910,
+  "alto_pallet_cm": 138
+ },
+ {
+  "sku": "BEB-GAS-NAR-L3",
+  "descripcion": "Lata Gaseosa Naranja 354ml",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 24,
+  "bultos_por_pallet": 100,
+  "peso_pallet_kg": 910,
+  "alto_pallet_cm": 138
+ },
+ {
+  "sku": "BEB-GAS-LIM-L3",
+  "descripcion": "Lata Gaseosa Lima 354ml",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 24,
+  "bultos_por_pallet": 100,
+  "peso_pallet_kg": 910,
+  "alto_pallet_cm": 138
+ },
+ {
+  "sku": "BEB-GAS-POM-L3",
+  "descripcion": "Lata Gaseosa Pomelo 354ml",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 24,
+  "bultos_por_pallet": 100,
+  "peso_pallet_kg": 910,
+  "alto_pallet_cm": 138
+ },
+ {
+  "sku": "BEB-ISO-TRO-15",
+  "descripcion": "Botella Isotónica Tropical 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ },
+ {
+  "sku": "BEB-ISO-MAN-15",
+  "descripcion": "Botella Isotónica Manzana 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ },
+ {
+  "sku": "BEB-ISO-FRO-15",
+  "descripcion": "Botella Isotónica Frozen 1,5L",
+  "categoria": "Bebidas",
+  "unidades_por_bulto": 6,
+  "bultos_por_pallet": 80,
+  "peso_pallet_kg": 774,
+  "alto_pallet_cm": 147
+ }
+]

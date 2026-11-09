@@ -1,0 +1,21 @@
+sku,descripcion,categoria,unidades_por_bulto,bultos_por_pallet,peso_pallet_kg,alto_pallet_cm
+BEB-AGU-NAT-15,"Botella Agua 1,5L",Bebidas,6,80,774,147
+BEB-AGU-MAN-15,"Botella Agua Saborizada Manzana 1,5L",Bebidas,6,80,774,147
+BEB-AGU-NAR-15,"Botella Agua Saborizada Naranja 1,5L",Bebidas,6,80,774,147
+BEB-AGU-POM-15,"Botella Agua Saborizada Pomelo 1,5L",Bebidas,6,80,774,147
+BEB-AGU-ANA-15,"Botella Agua Saborizada Ananá 1,5L",Bebidas,6,80,774,147
+BEB-AGU-PER-15,"Botella Agua Saborizada Pera 1,5L",Bebidas,6,80,774,147
+BEB-AGU-NAT-22,"Botella Agua 2,25L",Bebidas,6,45,651,123
+BEB-GAS-COL-22,"Botella Gaseosa Cola 2,25L",Bebidas,6,45,651,123
+BEB-GAS-CLI-22,"Botella Gaseosa Cola Light 2,25L",Bebidas,6,45,651,123
+BEB-GAS-NAR-22,"Botella Gaseosa Naranja 2,25L",Bebidas,6,45,651,123
+BEB-GAS-LIM-22,"Botella Gaseosa Lima 2,25L",Bebidas,6,45,651,123
+BEB-GAS-POM-22,"Botella Gaseosa Pomelo 2,25L",Bebidas,6,45,651,123
+BEB-GAS-COL-L3,Lata Gaseosa Cola 354ml,Bebidas,24,100,910,138
+BEB-GAS-CLI-L3,Lata Gaseosa Cola Light 354ml,Bebidas,24,100,910,138
+BEB-GAS-NAR-L3,Lata Gaseosa Naranja 354ml,Bebidas,24,100,910,138
+BEB-GAS-LIM-L3,Lata Gaseosa Lima 354ml,Bebidas,24,100,910,138
+BEB-GAS-POM-L3,Lata Gaseosa Pomelo 354ml,Bebidas,24,100,910,138
+BEB-ISO-TRO-15,"Botella Isotónica Tropical 1,5L",Bebidas,6,80,774,147
+BEB-ISO-MAN-15,"Botella Isotónica Manzana 1,5L",Bebidas,6,80,774,147
+BEB-ISO-FRO-15,"Botella Isotónica Frozen 1,5L",Bebidas,6,80,774,147
